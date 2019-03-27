@@ -4,3 +4,11 @@ body {
   font-family: 'Raleway', sans-serif;
   padding-top: 3.5rem;
 }
+
+
+.jumbotron{
+background: linear-gradient(to bottom, rgba(255, 200, 200, 0.4) 0%, rgba(255, 200, 200, 0.9) 100%), url("https://i.dailymail.co.uk/i/pix/2013/07/23/article-0-1AF34163000005DC-280_634x739.jpg");
+background-size: cover;
+background-repeat: cover;
+background-position: center center;
+	}
